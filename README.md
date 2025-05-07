@@ -18,7 +18,7 @@ A Flask-based web application that predicts whether a loan application is likely
 - **Frontend**: HTML5, CSS3, Bootstrap
 - **Backend**: Python, Flask
 - **Machine Learning**: scikit-learn, pandas, numpy
-- **Model**: Logistic Regression / Random Forest (you can update based on your model)
+- **Model**: Logistic Regression / Random Forest / Decision Tree
 
 ---
 
