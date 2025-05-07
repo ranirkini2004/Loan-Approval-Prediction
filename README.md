@@ -27,6 +27,6 @@ A Flask-based web application that predicts whether a loan application is likely
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/loan-approval-prediction.git
+git clone https://github.com/ranirkini2004/loan-approval-prediction.git
 cd loan-approval-prediction
 
